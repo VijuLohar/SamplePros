@@ -9,6 +9,8 @@
       <Name>General</Name>
       <SerializedChildren>
         <DetailItem SchemaName="name"/>
+        <DetailItem SchemaName="emailaddress1"/>
+        <DetailItem SchemaName="fax"/>
       </SerializedChildren>
     </FormTab>
   </SerializedChildrenV2>
